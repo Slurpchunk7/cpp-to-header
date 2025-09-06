@@ -6,10 +6,6 @@ It scans the source file for function definitions and creates a corresponding he
 
 ---
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-
 ## Installation
 1. Clone or download this repository.
 2. Make sure you have **Python 3.6+** installed.
